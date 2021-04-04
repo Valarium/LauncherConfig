@@ -1,0 +1,15 @@
+{
+  "$schema": "file:///home/anonymo/tmp/ValariumNebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Valarium",
+    "description": "Valarium Main Server",
+    "address": "play.valarium.fr:25565",
+    "mainServer": true,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2855"
+  },
+  "untrackedFiles": []
+}
