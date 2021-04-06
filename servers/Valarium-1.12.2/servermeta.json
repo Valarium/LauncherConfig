@@ -5,9 +5,15 @@
     "name": "Valarium",
     "description": "Valarium Main Server",
     "address": "play.valarium.fr:25565",
+    "discord": {
+      "shortId": "828966130474942484",
+      "largeImageText": "Valarium",
+      "largeImageKey": "valarium_icon"
+    },
     "mainServer": true,
     "autoconnect": false
   },
+  
   "forge": {
     "version": "14.23.5.2855"
   },

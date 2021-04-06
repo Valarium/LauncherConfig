@@ -1,5 +1,10 @@
 {
   "version": "1.0.0",
+  "discord": {
+    "shortId": "828966130474942484",
+    "largeImageText": "Valarium",
+    "largeImageKey": "valarium_icon"
+  },
   "servers": [
     {
       "id": "Valarium-1.12.2",
@@ -9,6 +14,11 @@
       "version": "1.0.0",
       "address": "play.valarium.fr:25565",
       "minecraftVersion": "1.12.2",
+      "discord": {
+        "shortId": "828966130474942484",
+        "largeImageText": "Valarium",
+        "largeImageKey": "valarium_icon"
+      },
       "mainServer": true,
       "autoconnect": false,
       "modules": [
@@ -242,9 +252,9 @@
           "name": "Valarium Main Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 900810,
+            "size": 900839,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/Valarium-1.0.jar",
-            "MD5": "d794e246797c6f9c0f0137fab0666ae4"
+            "MD5": "baf7298b467852ea362fcef8755e20cc"
           }
         }
       ]
