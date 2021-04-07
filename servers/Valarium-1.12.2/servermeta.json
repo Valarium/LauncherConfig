@@ -11,7 +11,7 @@
       "largeImageKey": "valarium_icon"
     },
     "mainServer": true,
-    "autoconnect": false
+    "autoconnect": true
   },
   
   "forge": {

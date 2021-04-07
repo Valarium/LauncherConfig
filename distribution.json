@@ -20,7 +20,7 @@
         "largeImageKey": "valarium_icon"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
@@ -252,9 +252,9 @@
           "name": "Valarium Main Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8787390,
+            "size": 8787383,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/Valarium-1.1.jar",
-            "MD5": "bbff3cac09d15bfc3b5a95c595d1fd2b"
+            "MD5": "b5934a73772b66605cb96dbd2e523d7f"
           }
         }
       ]
