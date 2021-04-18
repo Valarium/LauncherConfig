@@ -265,19 +265,6 @@
           }
         },
         {
-          "id": "net.labymod.main:labymod:3.8.15@jar",
-          "name": "LabyMod",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3964080,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/optionalon/LabyMod-3_1.12.2.jar",
-            "MD5": "06dc52e905eb7301f241f1f835a1886a"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "net.optifine:optifine:1.12.2_HD_U_G5@jar",
           "name": "OptiFine 1.12.2_HD_U_G5",
           "type": "ForgeMod",
@@ -295,9 +282,9 @@
           "name": "Valarium Main Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8796116,
+            "size": 8796121,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/Valarium-1.1.jar",
-            "MD5": "e70921a9cd0df390c264c0718c8706f6"
+            "MD5": "d2dfc23c219d94d3a9b0e6bee57554be"
           }
         }
       ]
