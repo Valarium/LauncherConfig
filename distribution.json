@@ -282,9 +282,9 @@
           "name": "Valarium Main Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9771346,
+            "size": 10387710,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/Valarium-1.2.jar",
-            "MD5": "0a30b1d58271490419c7b42d33d9672e"
+            "MD5": "1b8f17de609df0719e78ac90ddeb1241"
           }
         }
       ]
