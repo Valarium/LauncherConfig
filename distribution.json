@@ -259,9 +259,9 @@
           "name": "CustomNPCs",
           "type": "ForgeMod",
           "artifact": {
-            "size": 10440159,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/CustomNPCs_1.12.2-(01Oct19).jar",
-            "MD5": "e8f289624d99a67ee3b78c6524b96b45"
+            "size": 9911871,
+            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/CustomNPCs_1.12.2-(05Jul20).jar",
+            "MD5": "3ab1a5c4b069d574631da5bc1880ebf7"
           }
         },
         {
