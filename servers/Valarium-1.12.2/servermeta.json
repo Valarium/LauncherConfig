@@ -1,5 +1,5 @@
 {
-  "$schema": "file:///home/anonymo/tmp/ValariumNebula/schemas/ServerMetaSchema.schema.json",
+  "$schema": "file:///home/anonymo/Github/Nebula/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Valarium",
