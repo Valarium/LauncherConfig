@@ -666,19 +666,6 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.5_HD_U_G6@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5835761,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G6.jar",
-            "MD5": "4a13bb8132744ab7beeff9f076d48125"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.valarium:valariummod:1.3@jar",
           "name": "Valarium Mod",
           "type": "ForgeMod",
