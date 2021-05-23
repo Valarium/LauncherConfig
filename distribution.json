@@ -640,9 +640,9 @@
           "name": "Golden Age Combat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 129747,
+            "size": 129916,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/required/GoldenAgeCombat-v1.5.2-1.16.5.jar",
-            "MD5": "e428a199017e172179c00715abcefac5"
+            "MD5": "cc94ba676bf305c4b7e58d479b544841"
           }
         },
         {
