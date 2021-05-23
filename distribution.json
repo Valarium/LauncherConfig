@@ -651,41 +651,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 6046996,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/required/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          }
-        },
-        {
-          "id": "generated.forgemod:optifine:1.16.5_HD_U_G8@jar",
-          "name": "OptiFine",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6046996,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/optionalon/OptiFine_1.16.5_HD_U_G8.jar",
             "MD5": "e0717ba6d1674af83036ebc479fc77b4"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "io.github.zekerzhayard:optiforge:0.5.5@jar",
-          "name": "OptiForge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 185043,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/required/OptiForge-MC1.16.5-0.5.5.jar",
-            "MD5": "8586a9976222040e3e37b2af4c5a2686"
-          }
-        },
-        {
-          "id": "io.github.zekerzhayard:optiforge:0.5.5@jar",
-          "name": "OptiForge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 185043,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/optionalon/OptiForge-MC1.16.5-0.5.5.jar",
-            "MD5": "8586a9976222040e3e37b2af4c5a2686"
           },
           "required": {
             "value": false
@@ -696,9 +663,9 @@
           "name": "Valarium Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8752159,
+            "size": 8752814,
             "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.16.5/forgemods/required/Valarium-1.3.jar",
-            "MD5": "ff3a2fe0bc5b4a88abcd15535ba39b93"
+            "MD5": "96a683c6f72e4941279a1ce6030857f1"
           }
         }
       ]
