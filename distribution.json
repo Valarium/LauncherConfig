@@ -1,9 +1,10 @@
 {
   "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "shortId": "828966130474942484",
-    "largeImageText": "Valarium",
-    "largeImageKey": "valarium_icon"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -291,13 +292,13 @@
           }
         },
         {
-          "id": "com.valarium:com.valarium.valariummod:1.3@jar",
+          "id": "com.valarium:com.valarium.valariummod:1.4@jar",
           "name": "Valarium Main Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11163016,
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/Valarium-1.3.jar",
-            "MD5": "696cc255058fcffb26dd3ccc47b87311"
+            "size": 11273382,
+            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium-1.12.2/forgemods/required/Valarium-1.4.jar",
+            "MD5": "3814796010cf8c94f0ff451133d617ed"
           }
         }
       ]
