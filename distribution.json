@@ -16,17 +16,8 @@
         "largeImageKey": "valarium_icon"
       },
       "mainServer": true,
-      "autoconnect": true,"modules": [
-        {
-          "id": "net.minecraft:1.8.8",
-          "name": "Minecraft MCP",
-          "type": "Minecraft",
-          "artifact": {
-            "size": 8465313,
-            "MD5": "6585891791e0d75dc54cfb547a866db0",
-            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/repo/lib/vanilla/1.8.8.jar"
-          }
-        }
+      "autoconnect": true,
+      "modules": [
       ]
     }
   ]
