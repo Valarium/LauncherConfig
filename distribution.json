@@ -16,8 +16,18 @@
         "largeImageKey": "valarium_icon"
       },
       "mainServer": true,
-      "autoconnect": true,
-      "modules": []
+      "autoconnect": true,"modules": [
+        {
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2855:universal",
+          "name": "Minecraft Forge",
+          "type": "ForgeHosted",
+          "artifact": {
+            "size": 8465313,
+            "MD5": "6585891791e0d75dc54cfb547a866db0",
+            "url": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/repo/lib/vanilla/1.8.8.jar"
+          }
+        }
+      ]
     }
   ]
 }
