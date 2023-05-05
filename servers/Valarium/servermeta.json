@@ -1,0 +1,17 @@
+{
+  "$schema": "file:///home/anonymo/Github/Nebula/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Valarium",
+    "description": "Valarium Main Server",
+    "address": "play.valarium.fr:25565",
+    "discord": {
+      "shortId": "828966130474942484",
+      "largeImageText": "Valarium",
+      "largeImageKey": "valarium_icon"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "untrackedFiles": []
+}
