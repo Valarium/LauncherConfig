@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "servers": [
+    {
+      "id": "Valarium",
+      "name": "Valarium",
+      "description": "Valarium Main Server",
+      "icon": "https://raw.githubusercontent.com/Valarium/LauncherConfig/main/servers/Valarium/ValariumIcon.png",
+      "version": "1.0.0",
+      "address": "play.valarium.fr:25565",
+      "minecraftVersion": "1.8.8",
+      "discord": {
+        "shortId": "828966130474942484",
+        "largeImageText": "Valarium",
+        "largeImageKey": "valarium_icon"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": []
+    }
+  ]
+}
